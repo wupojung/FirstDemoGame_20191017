@@ -1,0 +1,6 @@
+C:\Users\wupojung\Desktop\TestGame\TestGame\bin\Debug\TestGame.exe.config
+C:\Users\wupojung\Desktop\TestGame\TestGame\bin\Debug\TestGame.exe
+C:\Users\wupojung\Desktop\TestGame\TestGame\bin\Debug\TestGame.pdb
+C:\Users\wupojung\Desktop\TestGame\TestGame\obj\Debug\TestGame.csprojAssemblyReference.cache
+C:\Users\wupojung\Desktop\TestGame\TestGame\obj\Debug\TestGame.exe
+C:\Users\wupojung\Desktop\TestGame\TestGame\obj\Debug\TestGame.pdb
